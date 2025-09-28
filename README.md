@@ -1,9 +1,9 @@
 # 📚 Leetcode Study Session
 
-![Python3](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+[![Python3](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
-![Schedule](https://img.shields.io/badge/Every%20Wednesday-4%3A30--5%3A30%20PM-brightgreen?style=for-the-badge)
+[![Schedule](https://img.shields.io/badge/Every%20Wednesday-4%3A30--5%3A30%20PM-brightgreen?style=for-the-badge)](https://www.bristol.ac.uk/)
 
 [![Banner](/assets/GDG_Bristol_banner.png)](https://gdg.community.dev/gdg-on-campus-university-of-bristol-bristol-united-kingdom/)
 
