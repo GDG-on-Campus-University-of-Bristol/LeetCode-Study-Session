@@ -18,7 +18,7 @@ Welcome to the **Leetcode Study Session** organised by **Google Developer Groups
 ## 🎯 About the Event
 We’re starting the year with an **introductory session to Leetcode**:  
 - **Group discussions** on interview-style problems.  
-- Guidance on how to **approach problems** and **explain solutions.  
+- Guidance on how to **approach problems** and **explain solutions**.  
 - Progressive increase in **difficulty** as sessions continue.  
 - A welcoming environment for **all levels**—whether you’re new to Leetcode or already experienced.
 
