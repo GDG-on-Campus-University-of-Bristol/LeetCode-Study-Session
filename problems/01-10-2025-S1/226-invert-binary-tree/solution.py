@@ -7,7 +7,7 @@
 class Solution:
     def invertTree(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
         
-        # edge case: when the current node it is None 
+        # edge case: when the current node is None 
         if not root:
             return
 
