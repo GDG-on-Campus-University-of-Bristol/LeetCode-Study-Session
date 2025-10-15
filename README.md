@@ -11,8 +11,8 @@
 Welcome to the **Leetcode Study Session** organised by **Google Developer Groups on Campus – University of Bristol**.  
 ## 📅 Event Details
 - **Date:** Every Wednesday (school days / term time), with some changes around the exams/coursework season
-- **Time:** 4:30 PM – 5:30 PM (GMT+1)  
-- **Location:** Merchant Venturers Building (MVB 2.56), 75 Woodland Road, Bristol, BS8 1UB  
+- **Time:** 4:30 PM – 6:30 PM (GMT+1)  
+- **Location:** Merchant Venturers Building (MVB 1.15), 75 Woodland Road, Bristol, BS8 1UB  
 - **Hosted by:** [GDG on Campus – University of Bristol](https://gdg.community.dev/gdg-on-campus-university-of-bristol-bristol-united-kingdom/)  
 
 ## 🎯 About the Event
