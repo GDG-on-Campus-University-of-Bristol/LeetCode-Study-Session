@@ -26,9 +26,6 @@ Stacks have four main operations:
        alt="Stack in data structure" width="600">
 </p>
 
-![Stack in data structure](https://logicmojo.com/assets/dist/new_pages/images/stack-in-data-structure.webp)
-
-
 
 As far as time complexities go if a stack is implemented via a dynamic array which is the most common then you have O(1) push, pop and random access with O(n) search.
 - Sometimes a stack may be implemented with a linked list with a tail pointer.
@@ -92,3 +89,11 @@ stack[-1] # 1
 len(stack) # 1
 
 ```
+
+
+stack = []
+for num in nums:
+    while (stack.length > 0 AND stack.top >= num):
+        stack.pop()
+    stack.push(num)
+
