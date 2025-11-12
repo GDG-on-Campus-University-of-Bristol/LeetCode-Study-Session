@@ -91,9 +91,4 @@ len(stack) # 1
 ```
 
 
-stack = []
-for num in nums:
-    while (stack.length > 0 AND stack.top >= num):
-        stack.pop()
-    stack.push(num)
 

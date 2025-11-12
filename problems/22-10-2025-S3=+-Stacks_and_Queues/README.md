@@ -17,14 +17,14 @@ Welcome to a LeetCode Study Session focused on **Stacks**, **Queues**, and the *
 ## 🎯 Learning Outcomes
 By the end of this session, you will:
 - Understand and implement **Stacks (LIFO)** and **Queues (FIFO)**.
-- Recognise and apply the **Monotonic Stack/Queue** pattern.
+- Recognize and apply the **Monotonic Stack/Queue** pattern.
 - Solve classic stack and queue problems and be able to apply these data structures in more unfamiliar problems.
 
 ---
 
 ## 🔑 Quick Reference
 
-| Structure           | Core Ops                       | Amortised | Use Cases                                     |
+| Structure           | Core Ops                       | Amortized | Use Cases                                     |
 |---------------------|--------------------------------|-----------|-----------------------------------------------|
 | **Stack (LIFO)**    | `push`, `pop`, `top`, `empty`  | O(1)      | Parsing (), backtracking, *next greater*       |
 | **Queue (FIFO)**    | `push`, `pop`, `front`, `empty`| O(1)      | BFS, scheduling, streaming                     |
